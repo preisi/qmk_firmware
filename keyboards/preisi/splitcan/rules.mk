@@ -1,0 +1,6 @@
+SERIAL_DRIVER = fdcan
+
+WS2812_DRIVER = pwm
+CIE1931_CURVE = yes
+
+EEPROM_DRIVER = spi
